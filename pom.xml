@@ -6,9 +6,9 @@
   <persistence-unit name="applicationPetstorePU"
                     transaction-type="JTA">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
-
+	<!--  modificatiosn de tests -->
     <jta-data-source>jdbc/pfePool</jta-data-source>
-
+	
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
 
     <properties>
