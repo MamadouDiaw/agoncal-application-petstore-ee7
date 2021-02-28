@@ -11,6 +11,7 @@
 
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <!-- modification apres changement du pom -->
+    <!-- test webhook-->
     <properties>
 
       <!-- create-tables | create-or-extend-tables | drop-and-create-tables

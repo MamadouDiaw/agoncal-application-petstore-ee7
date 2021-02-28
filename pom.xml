@@ -9,6 +9,7 @@
   <packaging>war</packaging>
   <name>Petstore application using Java EE 7</name>
   <!-- modification apres changement du pom-->
+  <!-- test webhook-->
   <properties>
     <version.javaee>7.0</version.javaee>
     <version.jboss-javaee>1.1.0.Final</version.jboss-javaee>
