@@ -10,7 +10,7 @@
     <jta-data-source>jdbc/pfePool</jta-data-source>
 
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
-    <!-- modification sur master-->
+    <!-- modification sur master apres detection de l'erreur -->
     <properties>
 
       <!-- create-tables | create-or-extend-tables | drop-and-create-tables
