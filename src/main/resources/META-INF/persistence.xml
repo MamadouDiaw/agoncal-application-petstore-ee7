@@ -13,6 +13,9 @@
     <!-- modification apres changement du pom -->
     <!-- test webhook-->
     <!--  test tag v1.1 -->
+    
+    <!--  test camara -->
+    
     <properties>
 
       <!-- create-tables | create-or-extend-tables | drop-and-create-tables
