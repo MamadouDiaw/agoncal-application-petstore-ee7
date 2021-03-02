@@ -10,7 +10,7 @@
     <jta-data-source>jdbc/pfePool</jta-data-source>
 
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
-
+    <!-- Modif just for test -->
     <properties>
 
       <!-- create-tables | create-or-extend-tables | drop-and-create-tables
