@@ -10,7 +10,12 @@
     <jta-data-source>jdbc/pfePool</jta-data-source>
 
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
-
+    <!-- modification apres changement du pom -->
+    <!-- test webhook-->
+    <!--  test tag v1.1 -->
+    
+    <!--  test camara -->
+    
     <properties>
 
       <!-- create-tables | create-or-extend-tables | drop-and-create-tables
